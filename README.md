@@ -8,3 +8,5 @@
 ## Recommendations:
 - Ejecutar en un entorno virtual como mamba
 - https://mamba.readthedocs.io/en/latest/
+
+- https://www.freecodecamp.org 
