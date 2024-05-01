@@ -6,7 +6,6 @@
 - If we indicate the final node (target) it will only show the shortest path to the specific node.
   
 ## Recommendations:
-- Ejecutar en un entorno virtual como mamba
+- Run in a virtual environment like mamba
 - https://mamba.readthedocs.io/en/latest/
-
 - https://www.freecodecamp.org 
