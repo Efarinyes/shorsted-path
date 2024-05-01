@@ -1,4 +1,4 @@
-#  Shortest Path aAlgorithm
+#  Shortest Path Algorithm
 
 - Script that shows through the console the routes between nodes of a dictionary. Tutorial Learn Algorithm Design by Building a Shortest Path Algorithm by FreecodeCamp
 - Show results via console
